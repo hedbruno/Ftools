@@ -1,0 +1,137 @@
+#tudo{
+    
+    background-color: whitesmoke ;
+    
+}
+
+
+#cabealho {
+   
+    width: 700px; ;
+    height: 100px ;
+    margin: 0 auto;
+    background-color: orange;
+    font-family: Arial;
+    font-size: 20pt;
+    padding-top: 20px;
+    padding-left: 200px;
+    border-radius: 10px;
+    
+
+}
+#corpo{
+    width: 900px;
+    height: 1200px;
+    background-color: whitesmoke;
+    margin:0 auto;
+    padding-top: 30px;
+    font-family: Arial;
+ 
+}
+#identificacao {
+  /*  #81E97B*/
+    float: left;
+    width: 840px ;
+    height: 100px ;
+    background-color: #81E97B;
+    padding-left:  40px;
+    padding-top:  10px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #FFF;
+    line-height: 30px;
+   
+}
+#parto {
+    
+    float: left;
+    width: 840px ;
+    height: 155px ;
+    background-color: #81E97B;
+    border-left: 10px;
+    padding-top:  05px;
+    padding-left:  40px;
+    border-radius: 10px;
+    border-width: 05px;
+    border-style: solid;
+    border-color: #FFF;
+    line-height: 30px;
+    
+}
+
+#indicadores {
+    
+    float: left;
+    width: 840px ;
+    height: 340px ;
+    background-color: #81E97B;
+    border-left: 10px;
+    padding-top:  05px;
+    padding-left:  40px;
+    border-radius: 10px;
+    border-width: 05px;
+    border-style: solid;
+    border-color: #FFF;
+    line-height: 30px;
+    
+}
+#coluna_e{
+    
+    width: 45%; 
+    float: left
+    
+}
+
+#coluna_d{
+    
+    width: 50%; 
+    float: right;
+    
+}
+       
+ #triagem {
+    
+    float: left;
+    width: 840px ;
+    height: 160px ;
+    background-color: #81E97B;
+    border-left: 10px;
+    padding-top:  05px;
+    padding-left:  40px;
+    border-radius: 10px;
+    border-width: 05px;
+    border-style: solid;
+    border-color: #FFF;
+    line-height: 30px;
+    
+    
+} 
+
+ #obs {
+    
+    float: left;
+    width: 840px ;
+    height: 270px ;
+    background-color: #81E97B;
+    border-left: 10px;
+    padding-top:  05px;
+    padding-left:  40px;
+    border-radius: 10px;
+    border-width: 05px;
+    border-style: solid;
+    border-color: #FFF;
+    line-height: 30px;
+    
+} 
+
+#finalmente{
+    
+    fonte-size: 30px;
+    
+}
+textarea{
+    width:90%;
+    color: red;
+    
+}
